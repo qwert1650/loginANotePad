@@ -9,3 +9,5 @@ https://github.com/qwert1650/loginANotePad.
 7.Check the result.
 
 Login accounts (Valid/Invalid) are hardcoded in the source code 
+
+NOTE: Chromedriver has only worked on MacOS
